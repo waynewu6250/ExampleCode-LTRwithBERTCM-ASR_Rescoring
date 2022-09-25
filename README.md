@@ -1,6 +1,6 @@
 # ExampleCode-LTRwithBERTCM-ASR_Rescoring
 
-This is the code repository for Interspeech 2022 paper: 
+This is the code repository for [Interspeech 2022 paper](https://www.isca-speech.org/archive/interspeech_2022/wu22_interspeech.html): 
 ```
 Learning to rank with BERT-based confidence models in ASR rescoring
 ```
